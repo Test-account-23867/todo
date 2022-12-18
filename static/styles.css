@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+.center_div{
+    padding: 20%;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.form-padding{
+    text-align: left;
+    padding: 0 20%;
+}
+
+.row .btn{
+    margin-top: 0px;
+}
+.row label{
+    margin-top: 5px;
+}
+
+.card-body a{
+    text-decoration: none;
+    margin-right: 15px;
+    
+}
